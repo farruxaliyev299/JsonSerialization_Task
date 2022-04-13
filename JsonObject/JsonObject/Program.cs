@@ -26,16 +26,9 @@ namespace JsonObject
                 sr.WriteLine(serializer);
             }
 
+            var deserializer = JsonConvert.DeserializeObject<Person>(serializer);
 
-
-            var deserializer = JsonConvert.DeserializeObject(serializer);
-
-            //using (StreamWriter srd = new StreamWriter(@"D:\c#\jsonobject\jsonobject\jsconfig.json"))
-            //{
-            //    srd.WriteLine(deserializer);
-            //}
-
-            Console.WriteLine(deserializer);
+            Console.WriteLine($"Name: {deserializer.Name}\nSurname: {deserializer.Surname}\nAge: {deserializer.Age}\nAdress: {deserializer.Adress.Country}, {deserializer.Adress.City}, {deserializer.Adress.State}, {deserializer.Adress.PostalCode}");
 
 
 
