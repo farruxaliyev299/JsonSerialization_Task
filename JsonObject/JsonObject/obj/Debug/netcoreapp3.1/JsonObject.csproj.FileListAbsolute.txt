@@ -1,0 +1,16 @@
+D:\C#\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.exe
+D:\C#\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.deps.json
+D:\C#\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.runtimeconfig.json
+D:\C#\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.runtimeconfig.dev.json
+D:\C#\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.dll
+D:\C#\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.pdb
+D:\C#\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.csproj.AssemblyReference.cache
+D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.AssemblyInfoInputs.cache
+D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.AssemblyInfo.cs
+D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.csproj.CoreCompileInputs.cache
+D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.csproj.CopyComplete
+D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.dll
+D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.pdb
+D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.genruntimeconfig.cache

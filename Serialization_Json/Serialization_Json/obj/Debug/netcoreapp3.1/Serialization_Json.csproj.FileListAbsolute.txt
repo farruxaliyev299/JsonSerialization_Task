@@ -1,0 +1,14 @@
+D:\C#\Serialization_Json\Serialization_Json\bin\Debug\netcoreapp3.1\Serialization_Json.exe
+D:\C#\Serialization_Json\Serialization_Json\bin\Debug\netcoreapp3.1\Serialization_Json.deps.json
+D:\C#\Serialization_Json\Serialization_Json\bin\Debug\netcoreapp3.1\Serialization_Json.runtimeconfig.json
+D:\C#\Serialization_Json\Serialization_Json\bin\Debug\netcoreapp3.1\Serialization_Json.runtimeconfig.dev.json
+D:\C#\Serialization_Json\Serialization_Json\bin\Debug\netcoreapp3.1\Serialization_Json.dll
+D:\C#\Serialization_Json\Serialization_Json\bin\Debug\netcoreapp3.1\Serialization_Json.pdb
+D:\C#\Serialization_Json\Serialization_Json\obj\Debug\netcoreapp3.1\Serialization_Json.csproj.AssemblyReference.cache
+D:\C#\Serialization_Json\Serialization_Json\obj\Debug\netcoreapp3.1\Serialization_Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Serialization_Json\Serialization_Json\obj\Debug\netcoreapp3.1\Serialization_Json.AssemblyInfoInputs.cache
+D:\C#\Serialization_Json\Serialization_Json\obj\Debug\netcoreapp3.1\Serialization_Json.AssemblyInfo.cs
+D:\C#\Serialization_Json\Serialization_Json\obj\Debug\netcoreapp3.1\Serialization_Json.csproj.CoreCompileInputs.cache
+D:\C#\Serialization_Json\Serialization_Json\obj\Debug\netcoreapp3.1\Serialization_Json.dll
+D:\C#\Serialization_Json\Serialization_Json\obj\Debug\netcoreapp3.1\Serialization_Json.pdb
+D:\C#\Serialization_Json\Serialization_Json\obj\Debug\netcoreapp3.1\Serialization_Json.genruntimeconfig.cache

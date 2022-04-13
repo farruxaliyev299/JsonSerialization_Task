@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ql9T0eLu4eFlzhv2jluZO9Zq+XPGkS/sWZ6fP2RAkMsn50Xu6VXDyHGV9/znGkwdgl5nNwOGuewNJNvN4PcZTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Code Academy\\Json\\JsonObject\\JsonObject\\JsonObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Name": "Ferrux",
+  "Surname": "Aliyev",
+  "Age": 19,
+  "Adress": {
+    "Country": "Azerbaijan",
+    "City": "Baku",
+    "PostalCode": 1076,
+    "State": "Suraxani"
+  }
+}
