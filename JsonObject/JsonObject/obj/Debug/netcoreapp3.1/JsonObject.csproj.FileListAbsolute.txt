@@ -14,3 +14,19 @@ D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.csproj.CopyComple
 D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.dll
 D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.pdb
 D:\C#\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.exe
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.deps.json
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.runtimeconfig.json
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.dll
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\JsonObject.pdb
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.csproj.CopyComplete
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.dll
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.pdb
+C:\Users\DELL\Desktop\Code Academy\Json\JsonObject\JsonObject\obj\Debug\netcoreapp3.1\JsonObject.genruntimeconfig.cache

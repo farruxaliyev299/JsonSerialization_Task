@@ -21,19 +21,19 @@ namespace JsonObject
 
             var serializer = JsonConvert.SerializeObject(person);
 
-            //using(streamwriter sr = new streamwriter(@"d:\c#\jsonobject\jsonobject\jsconfig.json"))
-            //{
-            //    sr.writeline(serializer);
-            //}
+            using (StreamWriter sr = new StreamWriter(@"D:\c#\jsonobject\jsonobject\jsconfig.json"))
+            {
+                sr.WriteLine(serializer);
+            }
 
 
 
             var deserializer = JsonConvert.DeserializeObject(serializer);
 
-            using (StreamWriter srd = new StreamWriter(@"D:\c#\jsonobject\jsonobject\jsconfig.json"))
-            {
-                srd.WriteLine(deserializer);
-            }
+            //using (StreamWriter srd = new StreamWriter(@"D:\c#\jsonobject\jsonobject\jsconfig.json"))
+            //{
+            //    srd.WriteLine(deserializer);
+            //}
 
             Console.WriteLine(deserializer);
 
